@@ -1,0 +1,57 @@
+[
+    {
+        "value": "{\"key\":\"17702940\",\"tipo\":\"MedicionPasos\",\"payload\":\"0\",\"paciente\":\"ARMANDINA MORALES\",\"idPaciente\":8431303092550,\"imei\":350193738265918,\"fecha\":1650247525}",
+        "date": "10:05 pm",
+        "ts": "1650247535447"
+    },
+    {
+        "value": "{\"key\":\"17702936\",\"tipo\":\"MedicionPasos\",\"payload\":\"0\",\"paciente\":\"Reloj de Mario\",\"idPaciente\":5126531287234,\"imei\":356203298253749,\"fecha\":1650247503}",
+        "date": "10:05 pm",
+        "ts": "1650247522570"
+    },
+    {
+        "value": "{\"key\":\"17702931\",\"tipo\":\"MedicionPasos\",\"payload\":\"607\",\"paciente\":\"Reloj de Cecilia\",\"idPaciente\":7013475342833,\"imei\":356203290606506,\"fecha\":1650247503}",
+        "date": "10:05 pm",
+        "ts": "1650247505602"
+    },
+    {
+        "value": "{\"key\":\"17702928\",\"tipo\":\"MedicionPasos\",\"payload\":\"0\",\"paciente\":\"Reloj de Maria\",\"idPaciente\":8150195899224,\"imei\":356203296491115,\"fecha\":1650247486}",
+        "date": "10:05 pm",
+        "ts": "1650247503526"
+    },
+    {
+        "value": "{\"key\":\"17702924\",\"tipo\":\"MedicionPasos\",\"payload\":\"2277\",\"paciente\":\"CELINDA PACHECO\",\"idPaciente\":1727999070339,\"imei\":350193710918918,\"fecha\":1650247493}",
+        "date": "10:04 pm",
+        "ts": "1650247495155"
+    },
+    {
+        "value": "{\"key\":\"17702920\",\"tipo\":\"MedicionPasos\",\"payload\":\"0\",\"paciente\":\"Reloj Acticare de Cristian\",\"idPaciente\":2874646484503,\"imei\":350193730758278,\"fecha\":1650247465}",
+        "date": "10:04 pm",
+        "ts": "1650247478517"
+    },
+    {
+        "value": "{\"key\":\"17702916\",\"tipo\":\"MedicionPasos\",\"payload\":\"13418\",\"paciente\":\"YOLANDA DEL CANTO TRONCOSO\",\"idPaciente\":1375134436075,\"imei\":350193734405991,\"fecha\":1650247398}",
+        "date": "10:03 pm",
+        "ts": "1650247411151"
+    },
+    {
+        "value": "{\"key\":\"17702912\",\"tipo\":\"MedicionPasos\",\"payload\":\"3269\",\"paciente\":\"Reloj de Cristina\",\"idPaciente\":1768144990732,\"imei\":356203297875685,\"fecha\":1650247387}",
+        "date": "10:03 pm",
+        "ts": "1650247398279"
+    },
+    {
+        "value": "{\"key\":\"17702908\",\"tipo\":\"MedicionPasos\",\"payload\":\"0\",\"paciente\":\"ARMANDINA MORALES\",\"idPaciente\":8431303092550,\"imei\":350193738265918,\"fecha\":1650247345}",
+        "date": "10:02 pm",
+        "ts": "1650247356086"
+    },
+    {
+        "value": "{\"key\":\"17702904\",\"tipo\":\"MedicionPasos\",\"payload\":\"0\",\"paciente\":\"Reloj de Mario\",\"idPaciente\":5126531287234,\"imei\":356203298253749,\"fecha\":1650247323}",
+        "date": "10:02 pm",
+        "ts": "1650247343034"
+    },
+    {
+        "value": "{\"key\":\"17702898\",\"tipo\":\"MedicionPasos\",\"payload\":\"607\",\"paciente\":\"Reloj de Cecilia\",\"idPaciente\":7013475342833,\"imei\":356203290606506,\"fecha\":1650247323}",
+        "date": "10:02 pm",
+        "ts": "1650247325346"
+    }
+]
